@@ -27,29 +27,19 @@ The analysis is based on 15,000+ job postings collected from global job portals 
 
 - Records: 15,000+ job postings
 
-- Features include:
-
+**Features include:**
 - Job title
-
 - Salary (USD)
-
 - Experience level
-
 - Employment type
-
 - Company size
-
 - Location
-
 - Required skills
-
 - Education level
-
 - Remote work ratio
-
 - Industry & company name
 
-Dataset Source: Kaggle – Global AI Job Market & Salary Trends 2025
+** Dataset Source:** Kaggle – Global AI Job Market & Salary Trends 2025
 
 ## 🛠️ Technologies Used
 
@@ -103,12 +93,13 @@ Dataset Source: Kaggle – Global AI Job Market & Salary Trends 2025
 - Offers insights into remote work trends
 - Useful for job seekers, recruiters, and educators
 
-### Prerequisites
-- Python 3.x
-- Jupyter Notebook
+
 
 
 ## 🚀 How to Run the Project
+### Prerequisites
+- Python 3.x
+- Jupyter Notebook
 ```
 # Clone the repository
 git clone https://github.com/your-username/ai-job-market-analysis.git
@@ -142,4 +133,8 @@ The analysis serves as a practical roadmap for aspiring AI/ML engineers and prov
 - Seaborn Documentation
 - Matplotlib Documentation
 
+## 👤 Author
+Chaithanya Kumar Natukula  
+B.Tech Computer Science and Engineering  
+Focus Areas: Data Analysis, Machine Learning, AI
 
