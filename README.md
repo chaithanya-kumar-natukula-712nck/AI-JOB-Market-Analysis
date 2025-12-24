@@ -1,5 +1,5 @@
 # 📊 AI Job Market Analysis (2025)
-# 📌 Project Overview
+## 📌 Project Overview
 
 This project presents a comprehensive analysis of the global AI & Machine Learning job market for 2025 using real-world job posting data.
 The goal is to understand salary trends, in-demand skills, experience impact, remote work distribution, and high-paying roles, companies, and countries.
@@ -23,35 +23,35 @@ The analysis is based on 15,000+ job postings collected from global job portals 
 |`AI job market analysis project.pdf`	|Detailed project report with methodology, results, and conclusions|
 |`project_intern.pptx`	|Presentation summarizing insights and key findings|
 
-# 🧠 Dataset Details
+## 🧠 Dataset Details
 
-Records: 15,000+ job postings
+- Records: 15,000+ job postings
 
-Features include:
+- Features include:
 
-Job title
+- Job title
 
-Salary (USD)
+- Salary (USD)
 
-Experience level
+- Experience level
 
-Employment type
+- Employment type
 
-Company size
+- Company size
 
-Location
+- Location
 
-Required skills
+- Required skills
 
-Education level
+- Education level
 
-Remote work ratio
+- Remote work ratio
 
-Industry & company name
+- Industry & company name
 
 Dataset Source: Kaggle – Global AI Job Market & Salary Trends 2025
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3.x
 - Pandas – data manipulation
@@ -85,47 +85,30 @@ Dataset Source: Kaggle – Global AI Job Market & Salary Trends 2025
 - Skill demand frequency
 - Remote work and employment type distribution
 
-# 📈 Key Insights
+## 📈 Key Insights
 
-💰 Highest-paying roles:
-AI Specialist, Machine Learning Engineer, Head of AI
-
-🌍 Top-paying countries:
-Switzerland, Denmark, Norway, United States
-
-🏢 Highest-paying industries:
-Consulting, Manufacturing, Media
-
-🧑‍💻 Most in-demand skills:
-Python, SQL, TensorFlow, Deep Learning, MLOps
-
-📊 Experience impact:
-Salary increases significantly with experience level
-
-🏠 Remote work:
-On-site, hybrid, and fully remote roles are almost equally distributed
-
-🏫 Education:
-Bachelor’s degree is sufficient for most roles; higher degrees do not drastically change salary
+- **Highest-paying roles:** AI Specialist, Machine Learning Engineer, Head of AI
+- **Top-paying countries:** Switzerland, Denmark, Norway, United States
+- **Highest-paying industries:** Consulting, Manufacturing, Media
+- **Most in-demand skills:** Python, SQL, TensorFlow, Deep Learning, MLOps
+- **Experience impact:** Salary increases significantly with experience level
+- **Remote work:** On-site, hybrid, and fully remote roles are almost equally distributed
+- **Education:** Bachelor’s degree is sufficient for most roles
 
 ## ✅ Advantages of This Project
 
-Helps students make informed career decisions
-
-Identifies skill priorities for AI/ML roles
-
-Provides salary benchmarks
-
-Offers insights into remote work trends
-
-Useful for job seekers, recruiters, and educators
+- Helps students make informed career decisions
+- Identifies skill priorities for AI/ML roles
+- Provides salary benchmarks
+- Offers insights into remote work trends
+- Useful for job seekers, recruiters, and educators
 
 ### Prerequisites
 - Python 3.x
 - Jupyter Notebook
 
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 ```
 # Clone the repository
 git clone https://github.com/your-username/ai-job-market-analysis.git
@@ -140,7 +123,7 @@ jupyter notebook
 
 Open `AI Job Market Analysis.ipynb` and run all cells sequentially.
 
-📌 Conclusion
+## 📌 Conclusion
 
 This project demonstrates how data analysis can uncover meaningful insights from large real-world datasets.
 The findings highlight that AI and Machine Learning roles continue to offer strong career growth, especially for professionals with the right technical skills and experience.
@@ -155,11 +138,8 @@ The analysis serves as a practical roadmap for aspiring AI/ML engineers and prov
 - Region-specific deep analysis
 
 ## 📚 References
-
-Kaggle: Global AI Job Market & Salary Trends 2025
-
-Seaborn Documentation
-
-Matplotlib Documentation
+- Kaggle: Global AI Job Market & Salary Trends 2025
+- Seaborn Documentation
+- Matplotlib Documentation
 
 
