@@ -1,5 +1,5 @@
 # 📊 AI Job Market Analysis (2025)
-📌 Project Overview
+# 📌 Project Overview
 
 This project presents a comprehensive analysis of the global AI & Machine Learning job market for 2025 using real-world job posting data.
 The goal is to understand salary trends, in-demand skills, experience impact, remote work distribution, and high-paying roles, companies, and countries.
@@ -8,27 +8,22 @@ The analysis is based on 15,000+ job postings collected from global job portals 
 
 ## 🎯 Objectives
 
-Identify highest-paying AI/ML job roles
-
-Analyze how experience, education, and company size affect salary
-
-Discover most in-demand technical skills
-
-Study remote, hybrid, and on-site job distribution
-
-Compare salary trends across countries, industries, and companies
-
-Provide career guidance for students and professionals entering AI/ML
+- Identify highest-paying AI/ML job roles
+- Analyze how experience, education, and company size affect salary
+- Discover most in-demand technical skills
+- Study remote, hybrid, and on-site job distribution
+- Compare salary trends across countries, industries, and companies
+- Provide career guidance for students and professionals entering AI/ML
 
 ## 🗂️ Project Files
+
+|File Name|	Description|
 |---|---|
-File Name	Description
-|---|---|
-`AI Job Market Analysis.ipynb`	Complete data analysis notebook with preprocessing, EDA, and visualizations
-`AI job market analysis project.pdf`	Detailed project report with methodology, results, and conclusions
-`project_intern.pptx`	Presentation summarizing insights and key findings
-|---|---|
-🧠 Dataset Details
+|`AI Job Market Analysis.ipynb`	|Complete data analysis notebook with preprocessing, EDA, and visualizations|
+|`AI job market analysis project.pdf`	|Detailed project report with methodology, results, and conclusions|
+|`project_intern.pptx`	|Presentation summarizing insights and key findings|
+
+# 🧠 Dataset Details
 
 Records: 15,000+ job postings
 
@@ -56,53 +51,41 @@ Industry & company name
 
 Dataset Source: Kaggle – Global AI Job Market & Salary Trends 2025
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-Python 3.x
+- Python 3.x
+- Pandas – data manipulation
+- Matplotlib – data visualization
+- Seaborn – advanced statistical plots
+- Jupyter Notebook
 
-Pandas – data manipulation
+## 🔍 Analysis Workflow
 
-Matplotlib – data visualization
+### Data Loading & Overview
 
-Seaborn – advanced statistical plots
+- Dataset inspection
+- Summary statistics
 
-Jupyter Notebook
+### Data Preprocessing
 
-🔍 Analysis Workflow
+- Missing value check
+- Data type validation
+- Data consistency checks
 
-Data Loading & Overview
+### Exploratory Data Analysis (EDA)
 
-Dataset inspection
+- Salary distribution analysis
+- Correlation analysis
+- Role-wise and industry-wise comparisons
 
-Summary statistics
+### Visualization
 
-Data Preprocessing
+- Salary vs experience
+- Highest-paying roles, companies, and countries
+- Skill demand frequency
+- Remote work and employment type distribution
 
-Missing value check
-
-Data type validation
-
-Data consistency checks
-
-Exploratory Data Analysis (EDA)
-
-Salary distribution analysis
-
-Correlation analysis
-
-Role-wise and industry-wise comparisons
-
-Visualization
-
-Salary vs experience
-
-Highest-paying roles, companies, and countries
-
-Skill demand frequency
-
-Remote work and employment type distribution
-
-📈 Key Insights
+# 📈 Key Insights
 
 💰 Highest-paying roles:
 AI Specialist, Machine Learning Engineer, Head of AI
@@ -125,7 +108,7 @@ On-site, hybrid, and fully remote roles are almost equally distributed
 🏫 Education:
 Bachelor’s degree is sufficient for most roles; higher degrees do not drastically change salary
 
-✅ Advantages of This Project
+## ✅ Advantages of This Project
 
 Helps students make informed career decisions
 
@@ -136,6 +119,11 @@ Provides salary benchmarks
 Offers insights into remote work trends
 
 Useful for job seekers, recruiters, and educators
+
+### Prerequisites
+- Python 3.x
+- Jupyter Notebook
+
 
 🚀 How to Run the Project
 ```
@@ -159,20 +147,19 @@ The findings highlight that AI and Machine Learning roles continue to offer stro
 
 The analysis serves as a practical roadmap for aspiring AI/ML engineers and provides data-driven insights for hiring and workforce planning.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
-Salary and job demand forecasting using ML models
+- Salary and job demand forecasting using ML models
+- Skill trend prediction over multiple years
+- Interactive dashboard (Power BI / Streamlit)
+- Region-specific deep analysis
 
-Skill trend prediction over multiple years
-
-Interactive dashboard (Power BI / Streamlit)
-
-Region-specific deep analysis
-
-📚 References
+## 📚 References
 
 Kaggle: Global AI Job Market & Salary Trends 2025
 
 Seaborn Documentation
 
 Matplotlib Documentation
+
+
