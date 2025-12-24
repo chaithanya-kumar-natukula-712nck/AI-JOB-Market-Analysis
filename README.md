@@ -1,4 +1,4 @@
-📊 # AI Job Market Analysis (2025)
+# 📊 AI Job Market Analysis (2025)
 📌 Project Overview
 
 This project presents a comprehensive analysis of the global AI & Machine Learning job market for 2025 using real-world job posting data.
@@ -20,11 +20,14 @@ Compare salary trends across countries, industries, and companies
 
 Provide career guidance for students and professionals entering AI/ML
 
-🗂️ Project Files
+## 🗂️ Project Files
+|---|---|
 File Name	Description
-AI Job Market Analysis.ipynb	Complete data analysis notebook with preprocessing, EDA, and visualizations
-AI job market analysis project.pdf	Detailed project report with methodology, results, and conclusions
-project_intern.pptx	Presentation summarizing insights and key findings
+|---|---|
+`AI Job Market Analysis.ipynb`	Complete data analysis notebook with preprocessing, EDA, and visualizations
+`AI job market analysis project.pdf`	Detailed project report with methodology, results, and conclusions
+`project_intern.pptx`	Presentation summarizing insights and key findings
+|---|---|
 🧠 Dataset Details
 
 Records: 15,000+ job postings
