@@ -1,4 +1,4 @@
-📊 AI Job Market Analysis (2025)
+📊 # AI Job Market Analysis (2025)
 📌 Project Overview
 
 This project presents a comprehensive analysis of the global AI & Machine Learning job market for 2025 using real-world job posting data.
@@ -6,7 +6,7 @@ The goal is to understand salary trends, in-demand skills, experience impact, re
 
 The analysis is based on 15,000+ job postings collected from global job portals and industry datasets and is implemented using Python and data visualization libraries.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Identify highest-paying AI/ML job roles
 
